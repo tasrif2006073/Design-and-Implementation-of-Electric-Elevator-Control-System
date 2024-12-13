@@ -1,5 +1,6 @@
 🚀 Design and Implementation of Electric Elevator Control System
 This repository contains a Verilog HDL project for designing and implementing a multi-floor electric elevator control system. The system simulates real-world elevator behavior, including internal and external call handling, directional movement, door operations, and floor displays using a 7-segment display.
+
 📋 Project Overview
 The elevator control system supports the following key functions:
 
